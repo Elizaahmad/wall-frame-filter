@@ -1,0 +1,10 @@
+body{
+    background-image:url("90496367-trendy-hairstyle-concept-colorful-dyed-hair-background.jpeg");
+
+}
+h3{
+    font-size: 25px !important;
+}
+.btn-success:hover{
+background-color: red;
+}
